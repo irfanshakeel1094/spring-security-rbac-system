@@ -70,6 +70,18 @@ The SQL above is written for **PostgreSQL**.
 - Multiple Roles per User
 - Audit Logging
 
+## What I Learned
+
+- Spring Security
+- Authentication vs Authorization
+- UserDetailsService
+- UserPrincipal
+- AuthenticationProvider
+- Role Based Access Control
+- PostgreSQL Integration
+- REST API Security
+- Debugging 401, 403, 400 and 500 errors
+
 ## Author
 
 Shakeel Irfan A R
